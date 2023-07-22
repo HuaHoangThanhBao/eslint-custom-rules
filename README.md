@@ -1,4 +1,4 @@
-Run command below to see custome eslint rules affect
+Run command below to see custom eslint rules affect
 ```
 npm run lint
 ```
